@@ -6,7 +6,7 @@
 Welcome to the Nunn Lab Proteomics Analysis Documentation!
 ==========================================================
 
-This documentation provides guidance for members of the Nunn Lab at the University of Washington on how to connect to the Genome Sciences (GS) cluster via the GSIT server (nexus.gs.washington.edu) for the purpose of running proteomics workflows.
+These pages provide instructions for processing different kinds of proteomics data using fully-automated workflows on the Genome Sciences (GS) cluster. These workflows, written in Nextflow, automate the entire process--starting with the raw mass spectrometer data and ending with data visualization in tools like Limelight or Skyline.
 
 .. toctree::
    :maxdepth: 2
