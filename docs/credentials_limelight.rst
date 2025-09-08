@@ -17,7 +17,7 @@ To set up your Limelight access key for uploading data, follow these instruction
 
    .. code-block:: bash
 
-      nextflow secrets set LIMELIGHT_SUBMIT_UPLOAD_KEY "xxxxxxxxxx"
+      /net/maccoss/vol1/maccoss_shared/nextflow/bin/nextflow secrets set LIMELIGHT_SUBMIT_UPLOAD_KEY "xxxxxxxxxx"
 
    .. important::
       Be sure to replace ``xxxxxxxxxx`` with your access key.
