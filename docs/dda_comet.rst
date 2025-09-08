@@ -88,6 +88,16 @@ It is highly recommended to run long processes like this workflow inside a `tmux
 
       tmux attach -t nextflow_run
 
+4. **Exit the session:**
+   Once the workflow is finished, it is important that you exit the tmux session by typing ``exit`` and pressing ``Enter``.
+
+   .. note::
+      If you need to re-execute a workflow, be sure to exit the tmux session before starting another one.
+
+   .. code-block:: bash
+
+      exit
+
 Specifying a Cluster Queue
 --------------------------
 
