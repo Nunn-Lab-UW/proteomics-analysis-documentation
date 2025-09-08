@@ -87,10 +87,6 @@ It is highly recommended to run long processes like this workflow inside a `tmux
    .. note::
       If you need to re-execute a workflow, be sure to exit the tmux session before starting another one.
 
-   .. code-block:: bash
-
-      exit
-
 Specifying a Cluster Queue
 --------------------------
 
