@@ -2,6 +2,10 @@
 
 This repository contains the source code for the Nunn Lab's proteomics analysis documentation, which is built using Sphinx and hosted on Read the Docs.
 
+## Viewing the Documentation
+
+The compiled documentation is available at: [https://nunnlab-proteomics-analysis.readthedocs.io/](https://nunnlab-proteomics-analysis.readthedocs.io/)
+
 ## Overview
 
 The documentation provides detailed instructions and best practices for processing proteomics data using various Nextflow workflows. It is intended to be a comprehensive resource for members of the Nunn Lab at the University of Washington.
