@@ -9,7 +9,6 @@ Prerequisites
 .. note::
    These are optional, one-time setup steps.
 
-*  If you plan to upload results to Limelight, please :doc:`set up your Limelight credentials <credentials_limelight>`.
 *  If you will be downloading data from Panorama, please :doc:`set up your Panorama credentials <credentials_panorama>`.
 
 Workflow Steps
