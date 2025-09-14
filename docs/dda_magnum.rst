@@ -38,7 +38,7 @@ Workflow Steps
    Edit the ``Magnum.conf`` file for your specific analysis. You can find detailed information about Magnum parameters at the `Magnum documentation <https://magnum-ms.org/param/index.html>`_.
 
 5. **Update** ``pipeline.config``
-   Edit the ``pipeline.config`` file to set the parameters for the Nextflow workflow itself.
+   Edit the ``pipeline.config`` file to set the parameters for the Nextflow workflow itself. More information about the Nextflow parameters can be found in the `workflow documentation <https://nf-openmod-dda.readthedocs.io/>`_.
 
 6. **Run the workflow**
    Execute the following script to start the workflow:
