@@ -67,6 +67,11 @@ To save your changes and exit, press ``Ctrl + X``, then ``Y`` to confirm, and fi
 Running with tmux
 -----------------
 
+.. note::
+   When you connect to ``nexus.gs.washington.edu``, you are randomly logged into one of ``nexus1``, ``nexus2``, or ``nexus3``. To reattach to a ``tmux`` session, you must be logged into the same server where the session is running.
+
+   It is recommended to explicitly connect to a specific server (e.g., ``ssh your_username@nexus1.gs.washington.edu``) to make it easier to find and reattach to your sessions later.
+
 It is highly recommended to run long processes like this workflow inside a `tmux` session. `tmux` is a terminal multiplexer that allows you to create persistent terminal sessions. This means your workflow will continue to run even if you get disconnected from the server.
 
 1. **Start a new `tmux` session and run the workflow:**
